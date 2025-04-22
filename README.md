@@ -4,7 +4,7 @@
 
 <h1 align="center">Walanz</h1>
 
-<p align="center">Multi-chain Ethereum Balance Checker</p>
+<p align="center"> (<b><i>Wa</i></b>llet Ba<b><i>lan</i></b>ce <b><i>z</i></b>)  Multi-chain Ethereum Balance Checker</p>
 
 <div align="center">
   <a href="#features">Features</a> •
@@ -15,9 +15,9 @@
   <a href="./README-zh.md">中文文档</a>
 </div>
 
-<img src="./public/1400x560-banner.png" width="100%" alt="Walanz Banner">
 
 ---
+<img src="./public/1400x560-banner.png" width="100%" alt="Walanz Banner">
 
 ## Features
 
